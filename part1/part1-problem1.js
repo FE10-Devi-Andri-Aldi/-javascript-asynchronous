@@ -23,7 +23,6 @@ Anda diminta membuat program untuk mengatasi masalah ini menggunakan fungsi call
 function jajanBoba(uang, callback) {
 
     // -------- Bagian Boba -----------
-
     // diket :
     let sisaUang = uang; // penampung baru
 
@@ -73,7 +72,7 @@ function jajanSeblak(uang) {
 }
 
 // jajanBoba(20000, jajanSeblak)
-jajanBoba(10000, jajanSeblak)
+jajanBoba(50000, jajanSeblak)
 
 
 
